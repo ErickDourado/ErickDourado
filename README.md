@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDourado&theme=dark&bg_color=2b2bb2&layout=compact)](https://github.com/ErickDourado)
 
-![Snake animation](https://github.com/ErickDourado/ErickDourado/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/ErickDourado/ErickDourado/blob/output/github-contribution-grid-snake.svg)](https://github.com/ErickDourado)
 
 
 

@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDourado&theme=dark&bg_color=2b2bb2&layout=compact)](https://github.com/ErickDourado)
 

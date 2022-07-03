@@ -6,8 +6,8 @@
 
 <br>
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDourado&theme=dark&bg_color=2b2bb2&layout=compact)](https://github.com/ErickDourado)
-
-<img src="https://komarev.com/ghpvc/?username=erickdourado&color=102C93&style=for-the-badge" alt="Profile views"/>
+</div>
 
 [![Snake animation](https://github.com/ErickDourado/ErickDourado/blob/output/github-contribution-grid-snake.svg)](https://github.com/ErickDourado)

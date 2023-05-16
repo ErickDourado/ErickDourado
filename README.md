@@ -4,4 +4,4 @@
 <h4>- 💞️ Estou procurando criar novos projetos e melhorar minha lógica aos poucos, pois pra mim, é algo fundamental.</h4>
 <h4>- 📫 Decidi postar meus projetos aqui, pois será de grande importância pra mim, aos poucos vou progredindo com minhas ideias e soluções.</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDourado&layout=compact&theme=transparent&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDourado&layout=compact&theme=transparent&size_weight=2.0)](https://github.com/anuraghazra/github-readme-stats)

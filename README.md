@@ -5,5 +5,5 @@
 <h4>- 📫 Decidi postar meus projetos aqui, pois será de grande importância pra mim, aos poucos vou progredindo com minhas ideias e soluções.</h4>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDourado&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDourado&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </div>
